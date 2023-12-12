@@ -1,4 +1,4 @@
-const apiKey = 'YOUR_ALPHA_VANTAGE_API_KEY';
+const apiKey = '3GSYUIH0HFVSLJGF';
 const stockSymbol = 'GAME';
 
 const stockPriceElement = document.getElementById('stock-price');
